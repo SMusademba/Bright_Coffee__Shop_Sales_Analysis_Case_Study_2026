@@ -17,6 +17,7 @@ Tools
 --- Databricks data processing
 --- Excel raw data analysis and final query data pivots and charts
 --- Powerpoint presentation preparation
+--- Github for repository and version/access control by linking with Databricks to allow CEO to view files and remain updated and able to retreive for future use. 
 
 **First step**
 --- Create a Gantt Chart and Project Flow Chart both using the MIRO tool. This is to document ideas and map out the project timeline and deliverables after the meeting with the CEO.
